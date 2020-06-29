@@ -6,7 +6,8 @@
 title: Leonids
 email:
 description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+url: "https://OrientPine.github.io"
+baseurl: "https://OrientPine.github.io/ComVision"
 keywords: ["blog", "jekyll"]
 
 #
@@ -69,3 +70,5 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
+  
+  remote_theme : renyuanz/leonids
